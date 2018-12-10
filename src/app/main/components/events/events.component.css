@@ -1,0 +1,97 @@
+.nvx-green {
+    color: #1abc9c;
+}
+
+.nvx-text-center {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.content-evenements {
+    font-family: 'Ubuntu',sans-serif;
+    line-height: 2em;
+}
+
+.content-evenements h2 {
+    font-size: 2.5em;
+    color: #1abc9c;
+    margin: 0;
+    text-align: center;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.nvx-separator {
+    color: #1abc9c;
+    margin-top: 2em;
+    margin-top: -1em;
+}
+
+.nvx-evenements {
+    height: 15em;
+    color: white;
+    background-image:
+    linear-gradient(
+        to right, 
+        #1abc9c, 
+        #56AC32,
+        #1abc9c
+        );
+        padding-top: 1em;        
+        padding-bottom: 1em;
+}
+
+.nvx-evenements h1 {
+    font-size: 350%;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+
+.nvx-evenements .greeting {
+    font-size: 150%;
+    text-align: center;
+}
+
+.nvx-evenements .teaser {
+    font-size: 125%;
+    text-align: center;
+}
+
+.nvx-article-head {
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.nvx-scrolltext {
+    height: 20em;
+    overflow-y: scroll;
+}
+
+.btn.btn-info {
+    background-color: #1abc9c !important;
+}

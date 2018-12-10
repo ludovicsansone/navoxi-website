@@ -1,0 +1,178 @@
+html, body {
+    height: 100%;
+}
+
+.big-text {
+    font-size: 120%;
+}
+
+.content-projet {
+    height: 100%;
+    font-family: 'Ubuntu',sans-serif;
+    line-height: 2em;
+}
+
+.content-projet h2 {
+    font-size: 2.5em;
+    color: #1abc9c;
+    margin: 0;
+    text-align: center;
+}
+
+.nvx-green {
+    color: #1abc9c;
+}
+
+.nvx-text-center {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.nvx-text-center {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.nvx-projet {
+    height: 15em;
+    color: white;
+    background-image:
+    linear-gradient(
+        to right, 
+        #1abc9c, 
+        #56AC32,
+        #1abc9c
+        );
+        padding-top: 1em;        
+        padding-bottom: 1em;
+    }
+
+    .nvx-projet h1 {
+        font-size: 350%;
+        font-style: italic;
+        text-align: center;
+        color: white;
+    }
+
+    .nvx-projet .greeting {
+        font-size: 150%;
+        text-align: center;
+    }
+
+    .nvx-projet .teaser {
+        font-size: 125%;
+        text-align: center;
+    }
+
+    .nvx-article-head {
+        margin-top: 5em;
+        margin-bottom: 2em;
+    }
+
+    .nvx-public-content {
+        height: 15em;
+        padding-top: 5em;
+        margin-bottom: 5em;
+    }
+
+    .nvx-projet-img {
+        height: 25em;
+        margin-top: 5em;
+    }
+
+    .nvx-utilisation-img {
+        height: 5.2em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .nvx-fonctionnement .well {
+        height: 20em;
+    }
+
+    .nvx-ol li span {
+        height: 20em;
+    }
+
+    .nvx-ol ol {
+        font-style: italic; 
+        font-family: Georgia, Times, serif; 
+        font-size: 3em; 
+        color: #1abc9c;
+    }
+
+    .nvx-ol ol li {
+
+    }
+    .nvx-ol ol li p {
+        padding: 2em; 
+        font-style: normal; 
+        font-family: Arial; 
+        font-size: 0.35em;
+        color: black;
+    }
+
+    .nvx-ol ol li p em {
+        display: block;
+        font-size: 1.5em;
+    }
+
+    .nvx-projet-img-1 {
+        height: 20em;
+        width: 20em;
+    }
+
+    .nvx-projet-img-2 {
+        height: 15em;
+        width: 25em;
+    }
+
+    .nvx-guidage em {
+        display: block;
+        font-size: 1.5em;
+    }
+
+    /*
+    .nvx-screen-reader-only {
+    position: absolute;
+    left: -999em;
+    top: 0;
+    height: 0;
+    }
+
+    [dir=rtl] .nvx-screen-reader-only {
+    left: auto;
+    right: -999em;
+    }
+    */
+
+    .btn.btn-info {
+        background-color: #1abc9c !important;
+    }
+    

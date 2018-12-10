@@ -1,0 +1,43 @@
+<!--
+<div id="view-container">
+
+    <h2 class="view-title">
+         {{ station }}
+    </h2>
+
+    <table id="train-list">
+        <tr>
+            <th class="train-type">
+                Train
+            </th>
+            <th class="train-hour">
+                Heure
+            </th>
+            <th class="train-destination">
+                Destination
+            </th>
+            <th class="train-platform">
+                Voie
+            </th>
+        </tr>
+
+        <tr class="train" *ngFor="let r of panel">
+            <td class="train-type" (click)="onStart(r.destination, r.quai, r.heure)">
+                {{ r.typeTrain }}
+            </td>
+            <td class="train-hour" (click)="onStart(r.destination, r.quai, r.heure)">
+                {{ r.heure }}
+            </td>
+            <td class="train-destination" (click)="onStart(r.destination, r.quai, r.heure)">
+                {{ r.destination }}
+            </td>
+            <td class="train-platform" (click)="onStart(r.destination, r.quai, r.heure)">
+                {{ r.quai }}
+            </td>
+        </tr>
+    </table>
+</div>
+-->
+<!-- Pour l'instant j'ai mis une iframe, mais c'est provisoir -->
+
+<iframe title="Fenêtre de démonstration" src="https://ls-navoxi.firebaseapp.com" height="800" width="100%"></iframe>
