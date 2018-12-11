@@ -1,0 +1,116 @@
+.nvx-green {
+    color: #1abc9c;
+}
+
+.nvx-text-center {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.content-offre {
+    font-family: 'Ubuntu',sans-serif;
+    line-height: 2em;
+}
+
+.content-offre h2 {
+    font-size: 2.5em;
+    color: #1abc9c;
+    margin: 0;
+    text-align: center;
+}
+
+.nvx-text-center {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.nvx-catchphrase {
+    margin-bottom: 0.5em;
+}
+
+.nvx-example {
+    font-size: 75%;
+    font-style: italic;
+}
+
+.nvx-section {
+    margin-bottom: 0.5em;
+}
+
+.nvx-offre {
+    height: 15em;
+    color: white;
+    background-image:
+    linear-gradient(
+        to right, 
+        #1abc9c, 
+        #56AC32,
+        #1abc9c
+        );
+        padding-top: 1em;        
+        padding-bottom: 1em;
+    }
+
+    .nvx-offre h1 {
+        font-size: 350%;
+        font-style: italic;
+        text-align: center;
+        color: white;
+    }
+
+    .nvx-offre .greeting {
+        font-size: 150%;
+        text-align: center;
+    }
+
+    .nvx-offre .teaser {
+        font-size: 125%;
+        text-align: center;
+    }
+
+    .nvx-offre-contexte {
+        font-size: 120%;
+        text-align: center;
+        line-height: 2.5em;
+        margin-top: 2em;
+    }
+
+    .nvx-offre-props {
+        margin-top: 2em;
+        background-color: #eaeaea;
+    }
+
+    .nvx-offre-props-summary-container {
+        display: table;
+    }
+
+    .nvx-offre-props-summary {
+        display: table-cell;
+        padding-top: 4em;
+    }
+
+    .nvx-offre-moreinfo {
+        margin-top: 5em;
+    }
+
+    .nvx-article-head {
+        margin-top: 5em;
+        margin-bottom: 2em;
+    }
+
+    .btn.btn-info {
+        background-color: #1abc9c !important;
+    }
