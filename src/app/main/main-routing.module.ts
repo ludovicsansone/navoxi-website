@@ -8,6 +8,7 @@ import { RouteComponent } from './components/route/route.component';
 import { VideoComponent } from './components/video/video.component';
 import { EventsComponent } from './components/events/events.component';
 import { KeynoteComponent } from './components/keynote/keynote.component';
+import { OfferComponent } from './components/offer/offer.component';
 import { ContactComponent } from './components/contact/contact.component';
 
 const routes: Routes = [
@@ -40,10 +41,13 @@ const routes: Routes = [
     component: KeynoteComponent
 },
 {
+    path: 'offer',
+    component: OfferComponent
+},
+{
     path: 'contact',
     component: ContactComponent
 }
-
 ];
 
 @NgModule({

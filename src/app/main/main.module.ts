@@ -14,6 +14,7 @@ import { VideoComponent } from './components/video/video.component';
 import { KeynoteComponent } from './components/keynote/keynote.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { EventsComponent } from './components/events/events.component';
+import { OfferComponent } from './components/offer/offer.component';
 
 import { RouteProvider } from './services/route';
 import { TtsProvider } from './services/tts';
@@ -25,7 +26,7 @@ import { HeaderComponent } from './components/header/header.component';
     CommonModule,
     MainRoutingModule
   ],
-  declarations: [NavComponent, LayoutComponent, FooterComponent, HomeComponent, ProjectComponent, DemoComponent, VideoComponent, KeynoteComponent, ContactComponent, EventsComponent, RouteComponent, HeaderComponent],
+  declarations: [NavComponent, LayoutComponent, FooterComponent, HomeComponent, ProjectComponent, DemoComponent, VideoComponent, KeynoteComponent, ContactComponent, EventsComponent, RouteComponent, HeaderComponent, OfferComponent],
   exports: [LayoutComponent],
   providers: [TtsProvider, RouteProvider]
 })
